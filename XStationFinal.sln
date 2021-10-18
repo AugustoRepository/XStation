@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Presentation Layer", "1-Presentation Layer", "{225FF23C-18EB-41EC-88A5-4C27AD5FE7ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Repository Layer", "2-Repository Layer", "{E44618DE-0053-4120-BC60-9D3390AAB260}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XStation.Repository", "XStation.Repository\XStation.Repository.csproj", "{3E57CE0D-1353-4E83-B47D-55DE0F70FBBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "External", "External", "{8C5F8593-3DD2-4961-BB50-B1C209C9119C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Correios", "Correios", "{7E2614FB-42EC-42B9-8137-D5A6CE62D44E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pargarme", "Pargarme", "{1D493F21-D12D-411B-AD53-1133BEF4B36F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XStation.Presentation", "XStation.Presentation\XStation.Presentation.csproj", "{DFFE0488-41A1-4D63-A2B9-A0465230ADE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E57CE0D-1353-4E83-B47D-55DE0F70FBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E57CE0D-1353-4E83-B47D-55DE0F70FBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E57CE0D-1353-4E83-B47D-55DE0F70FBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E57CE0D-1353-4E83-B47D-55DE0F70FBBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFFE0488-41A1-4D63-A2B9-A0465230ADE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFE0488-41A1-4D63-A2B9-A0465230ADE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFE0488-41A1-4D63-A2B9-A0465230ADE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFE0488-41A1-4D63-A2B9-A0465230ADE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3E57CE0D-1353-4E83-B47D-55DE0F70FBBC} = {E44618DE-0053-4120-BC60-9D3390AAB260}
+		{7E2614FB-42EC-42B9-8137-D5A6CE62D44E} = {8C5F8593-3DD2-4961-BB50-B1C209C9119C}
+		{1D493F21-D12D-411B-AD53-1133BEF4B36F} = {8C5F8593-3DD2-4961-BB50-B1C209C9119C}
+		{DFFE0488-41A1-4D63-A2B9-A0465230ADE8} = {225FF23C-18EB-41EC-88A5-4C27AD5FE7ED}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E5819C7-963E-43FB-91BA-8D4C0BA54543}
+	EndGlobalSection
+EndGlobal

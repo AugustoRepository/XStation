@@ -1,0 +1,10 @@
+C:\Users\augus\source\repos\XStationFinal\XStation.Repository\bin\Debug\netcoreapp3.1\XStation.Repository.deps.json
+C:\Users\augus\source\repos\XStationFinal\XStation.Repository\bin\Debug\netcoreapp3.1\XStation.Repository.dll
+C:\Users\augus\source\repos\XStationFinal\XStation.Repository\bin\Debug\netcoreapp3.1\XStation.Repository.pdb
+C:\Users\augus\source\repos\XStationFinal\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.csproj.AssemblyReference.cache
+C:\Users\augus\source\repos\XStationFinal\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.AssemblyInfoInputs.cache
+C:\Users\augus\source\repos\XStationFinal\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.AssemblyInfo.cs
+C:\Users\augus\source\repos\XStationFinal\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.csproj.CoreCompileInputs.cache
+C:\Users\augus\source\repos\XStationFinal\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.dll
+C:\Users\augus\source\repos\XStationFinal\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.pdb
+C:\Users\augus\source\repos\XStationFinal\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.GeneratedMSBuildEditorConfig.editorconfig
