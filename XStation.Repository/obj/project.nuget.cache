@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jomz11kYv9FMIwh7NnsIKirCtLlBpxKWv0RE9l7J1rU6wByNJwH1U2FAK+oIgMgkkrqzb4cy5fi3PsPuMFXwEQ==",
+  "dgSpecHash": "ntavNsJamIyQ1IxDWa80nrB180AEBBEsnvfX8tsU/p2lAjcJBUrJW04APoLAgU3qGhp90qN8AHsrmyX/XCRQaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\augus\\source\\repos\\XStationFinal\\XStation.Repository\\XStation.Repository.csproj",
+  "projectFilePath": "C:\\Projetos\\XStation\\XStation.Repository\\XStation.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\augus\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\augus\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

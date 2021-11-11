@@ -8,3 +8,13 @@ C:\Users\augus\source\repos\XStationFinal\XStation.Repository\obj\Debug\netcorea
 C:\Users\augus\source\repos\XStationFinal\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.dll
 C:\Users\augus\source\repos\XStationFinal\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.pdb
 C:\Users\augus\source\repos\XStationFinal\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\XStation\XStation.Repository\bin\Debug\netcoreapp3.1\XStation.Repository.deps.json
+C:\Projetos\XStation\XStation.Repository\bin\Debug\netcoreapp3.1\XStation.Repository.dll
+C:\Projetos\XStation\XStation.Repository\bin\Debug\netcoreapp3.1\XStation.Repository.pdb
+C:\Projetos\XStation\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.csproj.AssemblyReference.cache
+C:\Projetos\XStation\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\XStation\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.AssemblyInfoInputs.cache
+C:\Projetos\XStation\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.AssemblyInfo.cs
+C:\Projetos\XStation\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos\XStation\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.dll
+C:\Projetos\XStation\XStation.Repository\obj\Debug\netcoreapp3.1\XStation.Repository.pdb
